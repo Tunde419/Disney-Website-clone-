@@ -1,0 +1,23 @@
+.footer-container {
+    /* background-color: #F8F9FA; */
+    padding: 20px;
+    text-align: center;
+  }
+  .social-icons img {
+    width: 30px;
+    margin: 0 5px;
+  }
+  .links-list {
+    list-style-type: none;
+    padding: 0;
+    font-size: 12px;
+  }
+  .links-list li {
+    display: inline;
+    margin: 0 10px;
+  }
+  #copyright {
+    margin-top: 20px;
+    color: #6C757D;
+    font-size: 14px;
+  }
